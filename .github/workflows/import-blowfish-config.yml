@@ -27,8 +27,18 @@ jobs:
 
       - name: Extract config
         run: |
-          mkdir -p config/_default
-          unzip -o config-default.zip -d config/_default
+          mkdir -p temp_extract
+          unzip -o config-default.zip -d temp_extract
+
+          # Move contents out of nested folder if it exists
+          if [ -d "temp_extract/config/_default" ]; then
+            mkdir -p config/_default
+            cp -r temp_extract/config/_default/* config/_default/
+          else
+            cp -r temp_extract/* config/_default/
+          fi
+
+          rm -rf temp_extract
 
       - name: Commit changes
         run: |
