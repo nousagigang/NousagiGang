@@ -12,7 +12,7 @@ Text-based MMORPG Gaming Group Website
 - Site name:  `Nousagi Gang 🇵🇭`
 - Description:  `Gaming Group Website`
 - Powered by [Hugo](https://gohugo.io)
-[![Hugo](https://img.shields.io/badge/Hugo-%5E0.101.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/) [![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=0.87.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.87.0)
+[![Hugo](https://img.shields.io/badge/Hugo-%5E0.163.3-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/) [![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=0.120.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.87.0)
 - Theme: [Blowfish](https://github.com/nunocoracao/blowfish/) by [Nuno Coracao](https://n9o.xyz)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/nunocoracao/blowfish?style=flat-square)](https://github.com/nunocoracao/blowfish/releases)
 [![GitHub](https://img.shields.io/github/license/nunocoracao/blowfish)](https://github.com/nunocoracao/blowfish/blob/main/LICENSE)
@@ -27,7 +27,7 @@ Text-based MMORPG Gaming Group Website
 
 #### Repository
 
-- Repository: [github.com/nousagigang/nousagigang](https://github.com/nousagigang/nousagigang)
+- Repository: [nousagigang/nousagigang](https://github.com/nousagigang/nousagigang)
 - Branches: `main`
 - Owner: [Nousagi Gang](https://github.com/nousagigang)
 
@@ -46,7 +46,7 @@ Text-based MMORPG Gaming Group Website
 > [!IMPORTANT]
 > - Hugo version: `0.155.3`
 >     - Extended included
-> - Blowfish: `v2.100.0`
+> - Blowfish: `v2.103.0`
 
 ### Domains
 
