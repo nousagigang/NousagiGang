@@ -3,15 +3,19 @@ name: Import Rebuilding Day One Folder
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   import-folder:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout destination repository
+      - name: Checkout migration branch
         uses: actions/checkout@v4
         with:
           ref: test
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Clone legacy repository
         run: |
@@ -23,8 +27,8 @@ jobs:
 
       - name: Copy folder
         run: |
-          cp -R legacy/content/news/rebuilding-day-one \
-                static/news/
+          rm -rf static/news/rebuilding-day-one
+          cp -R legacy/content/news/rebuilding-day-one static/news/
 
       - name: Commit and push
         run: |
@@ -33,6 +37,6 @@ jobs:
 
           git add static/news/rebuilding-day-one
 
-          git commit -m "Import rebuilding-day-one folder from legacy repository" || echo "No changes"
+          git commit -m "Import rebuilding-day-one folder from legacy repository" || echo "No changes to commit"
 
-          git push origin test
+          git push origin HEAD:test
