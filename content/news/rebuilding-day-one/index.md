@@ -19,10 +19,6 @@ showReadingTime: true
 showWordCount: true
 ---
 
-{{< lead >}}
-A leader's log documenting the first day of rebuilding Nousagi [NSG] on CyberCode Online.
-{{< /lead >}}
-
 If you asked me, *"How's the first day of being the leader of NSG?"*
 
 Honestly, when I first stepped up, I didn't fully realize how much responsibility came with leading a gang.
