@@ -16,7 +16,7 @@ jobs:
           ref: main
 
       - run: |
-          mv content/news/rebuilding-day-1 static/news/rebuilding-day-one
+          mv content/news/rebuilding-day-1 content/news/rebuilding-day-one
 
       - run: |
           git config user.name "github-actions[bot]"
