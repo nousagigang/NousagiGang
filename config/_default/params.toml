@@ -68,12 +68,12 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
-  showDate = true
+  showDate = false
   showViews = true
   showLikes = true
   showDateOnlyInArticle = false
-  showDateUpdated = true
-  showAuthor = true
+  showDateUpdated = false
+  showAuthor = false
   showAuthorBottom = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
@@ -142,7 +142,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showBreadcrumbs = false
   showViews = true
   showLikes = true
-  showTableOfContents = true
+  showTableOfContents = false
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false

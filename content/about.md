@@ -3,6 +3,8 @@ title: About
 date: 2025-07-12T22:48:38+08:00
 draft: false
 showDate: false
+showAuthor: true
+showAuthorBottom: true
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
