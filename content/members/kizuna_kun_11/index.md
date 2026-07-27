@@ -13,7 +13,7 @@ aliases:
 layoutBackgroundHeaderSpace: false
 ---
 
-![Kizuna_Kun_ll's avatar](Kizuna_Kun_ll.png)
+{{< member-avatar member="kizuna_kun_11" >}}
 
 - **Username:** `Kizuna_Kun_ll`
 - **Role:** `Member`
