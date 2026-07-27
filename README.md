@@ -19,15 +19,13 @@ Text-based MMORPG Gaming Group Website
 [![Blowfish](https://img.shields.io/badge/Hugo--Themes-@Blowfish-blue)](https://themes.gohugo.io/themes/blowfish/)
 ![code-size](https://img.shields.io/github/languages/code-size/nunocoracao/blowfish)
 
-[![Update Submodule](https://github.com/k4lm3d/nsg/actions/workflows/update-submodule.yml/badge.svg)](https://github.com/k4lm3d/nsg/actions/workflows/update-submodule.yml)
-
 ### Build & deploy
 
 > Settings for Continuous Deployment from a Git repository
 
 #### Repository
 
-- Repository: [nousagigang/nousagigang](https://github.com/nousagigang/nousagigang)
+- Repository: [nousagigang/NousagiGang](https://github.com/nousagigang/nousagigang)
 - Branches: `main`
 - Owner: [Nousagi Gang](https://github.com/nousagigang)
 
@@ -60,6 +58,7 @@ Text-based MMORPG Gaming Group Website
 - Redirects automatically to primary domain: `false`
 - Domain alias: `nousagi`, `nsg`, `nsgph`,  `nousagiph`, `nousagi-gang`, `nousagigangph`
 - Temporary sites: https://fyi.me/p/nousagi
+- Previous sites: https://nousagigangph.web.app
 
 > [!IMPORTANT]
 > Recommended web address to use is **https://nousagigang.web.app**
