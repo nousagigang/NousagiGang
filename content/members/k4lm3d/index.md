@@ -25,7 +25,7 @@ heroStyle: "background"
 
 #### Info
 
-![K4LM3D's avatar](K4LM3D.png)
+{{< member-avatar member="k4lm3d" >}}
 
 - **Username:** `K4LM3D`
 - **Nickname:** `Kal`
