@@ -1,7 +1,7 @@
 ---
 title: King_Of_Kings
 date: 2026-07-28T05:20:00+08:00
-draft: false
+draft: true
 tags: ["CyberCode Online"]
 description: "Get to know King_of_kings of Nousagi Gang"
 weight: 8
