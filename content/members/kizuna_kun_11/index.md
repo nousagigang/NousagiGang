@@ -2,7 +2,7 @@
 title: Kizuna_Kun_ll
 date: 2026-07-02T15:14:00+08:00
 draft: false
-tags: ["CyberCode Online", "Arclight City"]
+tags: ["CyberCode Online"]
 description: "Get to know Kizuna_Kun_ll of Nousagi Gang"
 weight: 7
 showDate: false
