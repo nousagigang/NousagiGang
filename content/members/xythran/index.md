@@ -12,7 +12,7 @@ aliases:
 layoutBackgroundHeaderSpace: false
 ---
 
-![Xythran's avatar](Xythran.png)
+{{< member-avatar member="xythran" >}}
 
 - **Username:** `Xythran`
 - **Role:** `Runner`
