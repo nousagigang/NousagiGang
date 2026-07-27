@@ -1,7 +1,7 @@
 ---
 title: Noszcire
 date: 2026-07-28T05:37:00+08:00
-draft: false
+draft: draft
 tags: ["CyberCode Online"]
 description: "Get to know Noszcire of Nousagi Gang"
 weight: 10
