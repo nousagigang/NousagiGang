@@ -14,7 +14,7 @@ layoutBackgroundHeaderSpace: false
 
 #### Info
 
-![Jude's avatar](Jude.jpg)
+{{< member-avatar member="jude" >}}
 
 - **Username:** `Homongji`
   - Former usernames: `Azhulong_31`, `Tarntamount`, `Tamaraw31`

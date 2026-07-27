@@ -12,7 +12,7 @@ aliases:
 layoutBackgroundHeaderSpace: false
 ---
 
-![BLACK_ACE's avatar](BLACK_ACE.png)
+{{< member-avatar member="black_ace" >}}
 
 - **Username:** `BLACK_ACE`
 - **Role:** `Member`
