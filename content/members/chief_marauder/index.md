@@ -14,7 +14,7 @@ aliases:
 layoutBackgroundHeaderSpace: false
 ---
 
-![Chief_Marauder's avatar](Chief_Marauder.jpg)
+{{< member-avatar member="chief_marauder" >}}
 
 - **Username:** `Chief_Marauder`
 - **Role:** `Fixer`
