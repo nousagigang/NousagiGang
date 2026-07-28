@@ -22,9 +22,13 @@ STATUS: ACTIVE
 - [Xythran](members/xythran)
 - [Homongji](members/jude)
 - [BLACK_ACE](members/black_ace)
-- CODE_Exypnus
+- ~~CODE_Exypnus~~
 - Jmr11457
-- Kizuna_Kun_II
+- [Kizuna_Kun_ll](members/kizuna_kun_11)
+- Noszcire
+- Army_Ant
+
+*<small>Last updated 2026/07/28</small>*
 
 ---
 
@@ -45,6 +49,9 @@ STATUS: INACTIVE
 - Mason_Kieran_Ross
 - Multiverse764
 - [Xythran](members/xythran)
+
+*<small>Last updated 2026/07/01</small>*
+
 
 {{< accordion mode="open" separated=true >}}
   {{< accordionItem title="Info" icon="lightbulb" open=true >}}
