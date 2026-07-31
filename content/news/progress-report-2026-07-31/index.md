@@ -115,21 +115,15 @@ One of July's most meaningful developments happened outside the game itself.
 
 On **July 24**, **Jmr11457 suggested creating a Facebook Messenger group chat for Nousagi Gang**, and K4LM3D created it the same day.
 
-The group currently includes:
-
-**K4LM3D, Xythran, Homongji, Jmr11457, BLACK_ACE, Kizuna_Kun_ll, and Chief_Marauder.**
+The group currently includes: [K4LM3D](members/k4lm3d), [Xythran](members/xythran), [Homongji](members/jude), **Jmr11457**, [BLACK_ACE](members/black_ace), [Kizuna_Kun_ll](members/kizuna_kun_11), and [Chief_Marauder](members/chief_marauder).
 
 The group mainly brings together NSG's older *CyberCode Online* players and serves as a way for longtime members to stay connected.
 
 New recruits were not required to join, making the group primarily a space for the gang's veteran community and old connections.
 
----
+### NSG's One-Month Celebration
 
-## One Month Since the Rebuilding
-
-### July 16 — NSG's One-Month Celebration
-
-July 16 marked **one month since the rebuilding of Nousagi Gang on CyberCode Online**.
+**July 16** marked **one month since the rebuilding of Nousagi Gang on CyberCode Online**.
 
 The occasion was especially meaningful because Nousagi Gang has existed in *CyberCode Online* since **2022**, but the current chapter began with its rebuilding on **June 16, 2026**.
 
@@ -137,19 +131,15 @@ In exactly one month, NSG had gone from a freshly rebuilt gang into an increasin
 
 This milestone served as a reminder that rebuilding NSG was not simply about restoring a gang—it was about restoring the community behind it.
 
----
-
-## Returning Veterans and Renewed Activity
+### Returning Veterans and Renewed Activity
 
 July also saw some of NSG's older players return to the game.
 
-On **July 29**, both **Homongji and BLACK_ACE came online again** after their periods of inactivity.
+On **July 29**, both [Homongji](members/jude) and [BLACK_ACE](members/black_ace) **came online again** after their periods of inactivity.
 
 Their return was a positive development for the gang, especially as NSG continued reconnecting its veteran members while welcoming new players.
 
----
-
-# July in Perspective
+### July in Perspective
 
 July 2026 was a month of **growth, structure, and reconnection** for Nousagi Gang.
 
@@ -159,9 +149,9 @@ At the same time, NSG's veteran community began reconnecting through its new Mes
 
 From **Level 22 on July 10** to **Level 27 by July 31**, NSG continued moving forward.
 
-And from the return of a **2022 veteran player on July 1** to the celebration of **one month of rebuilding on July 16**, the month showed that the old NSG spirit was still present—and that a new chapter was being built around it.
+And from the return of a **veteran player on July 1** to the celebration of **one month of rebuilding on July 16**, the month showed that the old NSG spirit was still present—and that a new chapter was being built around it.
 
-### As July comes to a close:
+#### As July comes to a close:
 
 **10 members.\
 Level 27.\
@@ -170,7 +160,9 @@ Level 27.\
 One month of rebuilding.\
 And still growing.**
 
-**Di palulupig. Di pasisiil.**
-**United by games. Bound by values.**
+{{< lead >}}
+> ***Di palulupig. Di pasisiil.***
+> ***United by games. Bound by values.***
+{{< /lead >}}
 
 — **Nousagi [NSG]**
