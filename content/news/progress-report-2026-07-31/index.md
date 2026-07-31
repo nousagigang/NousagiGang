@@ -1,0 +1,182 @@
+---
+title: "Nousagi Progress Report for July 2026"
+date: 2026-07-31T13:30:45+08:00
+draft: false
+description: "Di palulupig. Di pasisiil. United by games. Bound by values."
+aliases:
+- /PR20260731
+layoutBackgroundHeaderSpace: false
+showTableOfContents: false
+showDate: true
+showDateUpdated: true
+tags: ["Nousagi Gang", "CyberCode Online", "BackAndRebuilding", "Progress Report"]
+showAuthor: true
+showAuthorsBadges: false
+showReadingTime: true
+showWordCount: true
+---
+
+July 2026 marked a significant month for the rebuilding of **Nousagi [NSG] Gang** in *CyberCode Online*. After being rebuilt from the ground up in June, NSG spent July strengthening its membership, reaching new gang levels, establishing clearer policies, reconnecting with veteran players, and building a stronger sense of community.
+
+Most importantly, July was the month when the rebuilt NSG proved that it was more than simply a revived gang—it was becoming an active and organized community once again.
+
+---
+
+## July at a Glance
+
+By **July 31, 2026**, Nousagi Gang had reached:
+
+* **Gang Level:** `27`
+* **Members:** `10`
+* **Gang Funds:** `23,941,428 BTC`
+* **Resources:** `98,797`
+* **Rebuilding Milestone:** Over one month since the gang's June 16 rebuilding
+
+The gang also welcomed several new and returning players throughout the month, while veteran members began reconnecting more actively.
+
+---
+
+## Major Developments
+
+### Growth and Recruitment
+
+July brought steady membership growth through both new recruits and returning players.
+
+**July 1 — Noszcire joined NSG**
+
+Noszcire was recruited by **K4LM3D**. He is a returning *CyberCode Online* player from **2022**, making his arrival a meaningful connection between NSG's past and its rebuilt present.
+
+**July 20 — Army_Ant joined**
+
+Army_Ant was recruited by **K4LM3D and Xythran**, further expanding the gang's active membership.
+
+**July 29 — Jeid joined**
+
+Jeid was recruited by **K4LM3D**.
+
+**July 31 — Hajiroboshi joined**
+
+Hajiroboshi was recruited by **K4LM3D**. He explained that he was not new to the game, but rather an **on-and-off player**, bringing another experienced player into the rebuilt gang.
+
+By the end of July, NSG had reached **10 members**.
+
+---
+
+## Gang Progression
+
+NSG continued its steady rise in gang level throughout the month:
+
+**July 10:** Level 22
+**July 15:** Level 24
+**July 31:** Level 27
+
+This progression reflects the continued contributions and activity of the gang's members throughout July.
+
+On **July 30**, **Xythran contributed 11.4 million BTC** to the gang funds, providing a major boost to NSG's financial resources.
+
+On **July 6**, **K4LM3D also contributed 4 million BTC** to the gang funds.
+
+By the final day of the month, NSG had accumulated:
+
+**23,941,428 BTC in gang funds**
+**98,797 resources**
+
+---
+
+## Building Structure and Accountability
+
+As the gang grew, its leaders also began establishing clearer expectations for member activity.
+
+### July 7 — Inactivity Policy
+
+Following **CODE_Exypnus' 12 days of inactivity**, leaders **K4LM3D and Xythran** decided that NSG needed a policy regarding prolonged inactivity.
+
+This was an important step in rebuilding the gang as an organized community rather than simply maintaining a list of members.
+
+### July 23 — Inactivity Announcements
+
+K4LM3D formally announced the inactivity status of several members:
+
+* **BLACK_ACE — 14 days inactive**
+* **CODE_Exypnus — 29 days inactive**
+* **Homongji — 15 days inactive**
+
+However, **Homongji was excused from the inactivity policy due to health issues**. His inactivity was therefore treated differently from members who were inactive without prior circumstances known to the leadership.
+
+The announcement reinforced NSG's new approach toward activity and accountability while also recognizing that members may have legitimate personal circumstances that affect their ability to play.
+
+### July 24 — Leadership Action
+
+On July 24, **K4LM3D removed CODE_Exypnus from the gang** due to prolonged inactivity and issued a warning to **BLACK_ACE**.
+
+**Homongji was not subjected to the same action**, as his inactivity had already been excused because of his health situation.
+
+These actions demonstrated that the newly established inactivity policy was being put into practice while still allowing room for legitimate exceptions.
+
+---
+
+## Reconnecting the Old NSG Community
+
+One of July's most meaningful developments happened outside the game itself.
+
+On **July 24**, **Jmr11457 suggested creating a Facebook Messenger group chat for Nousagi Gang**, and K4LM3D created it the same day.
+
+The group currently includes:
+
+**K4LM3D, Xythran, Homongji, Jmr11457, BLACK_ACE, Kizuna_Kun_ll, and Chief_Marauder.**
+
+The group mainly brings together NSG's older *CyberCode Online* players and serves as a way for longtime members to stay connected.
+
+New recruits were not required to join, making the group primarily a space for the gang's veteran community and old connections.
+
+---
+
+## One Month Since the Rebuilding
+
+### July 16 — NSG's One-Month Celebration
+
+July 16 marked **one month since the rebuilding of Nousagi Gang on CyberCode Online**.
+
+The occasion was especially meaningful because Nousagi Gang has existed in *CyberCode Online* since **2022**, but the current chapter began with its rebuilding on **June 16, 2026**.
+
+In exactly one month, NSG had gone from a freshly rebuilt gang into an increasingly active community with growing membership, rising gang levels, substantial funds, and renewed connections between veteran players.
+
+This milestone served as a reminder that rebuilding NSG was not simply about restoring a gang—it was about restoring the community behind it.
+
+---
+
+## Returning Veterans and Renewed Activity
+
+July also saw some of NSG's older players return to the game.
+
+On **July 29**, both **Homongji and BLACK_ACE came online again** after their periods of inactivity.
+
+Their return was a positive development for the gang, especially as NSG continued reconnecting its veteran members while welcoming new players.
+
+---
+
+# July in Perspective
+
+July 2026 was a month of **growth, structure, and reconnection** for Nousagi Gang.
+
+The gang continued climbing in level, welcomed new recruits and returning players, strengthened its financial position, introduced an inactivity policy, and took concrete steps to maintain member accountability.
+
+At the same time, NSG's veteran community began reconnecting through its new Messenger group, creating another layer of communication beyond the game itself.
+
+From **Level 22 on July 10** to **Level 27 by July 31**, NSG continued moving forward.
+
+And from the return of a **2022 veteran player on July 1** to the celebration of **one month of rebuilding on July 16**, the month showed that the old NSG spirit was still present—and that a new chapter was being built around it.
+
+### As July comes to a close:
+
+**10 members.\
+Level 27.\
+23,941,428 BTC.\
+98,797 resources.\
+One month of rebuilding.\
+And still growing.**
+
+**Di palulupig. Di pasisiil.**
+**United by games. Bound by values.**
+
+— **Nousagi [NSG]**
