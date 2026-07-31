@@ -27,8 +27,9 @@ STATUS: ACTIVE
 - [Kizuna_Kun_ll](members/kizuna_kun_11)
 - Noszcire
 - Army_Ant
+- Hajiroboshi
 
-*<small>Last updated 2026/07/28</small>*
+*<small>Last updated 2026/07/31</small>*
 
 ---
 
