@@ -16,15 +16,13 @@ showReadingTime: true
 showWordCount: true
 ---
 
-July 2026 marked a significant month for the rebuilding of **Nousagi [NSG] Gang** in *CyberCode Online*. After being rebuilt from the ground up in June, NSG spent July strengthening its membership, reaching new gang levels, establishing clearer policies, reconnecting with veteran players, and building a stronger sense of community.
+July 2026 marked a significant month for the rebuilding of **Nousagi [NSG]** Gang in [CyberCode Online](https://cybercodeonline.com). After being rebuilt from the ground up in June, NSG spent July strengthening its membership, reaching new gang levels, establishing clearer policies, reconnecting with veteran players, and building a stronger sense of community.
 
 Most importantly, July was the month when the rebuilt NSG proved that it was more than simply a revived gang—it was becoming an active and organized community once again.
 
----
-
-## July at a Glance
-
-By **July 31, 2026**, Nousagi Gang had reached:
+{{< accordion mode="open" separated=true >}}
+  {{< accordionItem title="July 2026 at a Glance" icon="circle-info" open=false >}}
+  By **July 31, 2026**, Nousagi Gang had reached:
 
 * **Gang Level:** `27`
 * **Members:** `10`
@@ -33,53 +31,51 @@ By **July 31, 2026**, Nousagi Gang had reached:
 * **Rebuilding Milestone:** Over one month since the gang's June 16 rebuilding
 
 The gang also welcomed several new and returning players throughout the month, while veteran members began reconnecting more actively.
-
----
-
-## Major Developments
+  {{< /accordionItem >}}
+{{< /accordion >}}
 
 ### Growth and Recruitment
 
 July brought steady membership growth through both new recruits and returning players.
 
-**July 1 — Noszcire joined NSG**
+{{< timeline >}}
+  {{< timelineItem icon="heart" header="July 1" badge="New member" subheader="Noszcire joined NSG" >}}
+**Noszcire** was recruited by [K4LM3D](members/k4lm3d). He is a returning *CyberCode Online* player.
+  {{< /timelineItem >}}
 
-Noszcire was recruited by **K4LM3D**. He is a returning *CyberCode Online* player from **2022**, making his arrival a meaningful connection between NSG's past and its rebuilt present.
+  {{< timelineItem icon="heart" header="July 20" badge="New member" subheader="Army_Ant joined" >}}
+**Army_Ant** was recruited by [K4LM3D](members/k4lm3d) and [Xythran](members/xythran), further expanding the gang's active membership.
+  {{< /timelineItem >}}
 
-**July 20 — Army_Ant joined**
+  {{< timelineItem icon="heart" header="July 29" badge="New member" subheader="Jeid joined" >}}
+**Jeid** was recruited by [K4LM3D](members/k4lm3d)
+  {{< /timelineItem >}}
 
-Army_Ant was recruited by **K4LM3D and Xythran**, further expanding the gang's active membership.
-
-**July 29 — Jeid joined**
-
-Jeid was recruited by **K4LM3D**.
-
-**July 31 — Hajiroboshi joined**
-
-Hajiroboshi was recruited by **K4LM3D**. He explained that he was not new to the game, but rather an **on-and-off player**, bringing another experienced player into the rebuilt gang.
+  {{< timelineItem icon="heart" header="July 31" badge="New member" subheader="Hajiroboshi joined" >}}
+**Hajiroboshi** was recruited by [K4LM3D](members/k4lm3). He explained that he was not new to the game, but rather an **on-and-off player**, bringing another experienced player into the rebuilt gang.
+  {{< /timelineItem >}}
+{{< /timeline >}}
 
 By the end of July, NSG had reached **10 members**.
 
----
-
-## Gang Progression
+### Gang Progression
 
 NSG continued its steady rise in gang level throughout the month:
 
-**July 10:** Level 22
-**July 15:** Level 24
-**July 31:** Level 27
+- **July 10:** Level 22
+- **July 15:** Level 24
+- **July 31:** Level 27
 
 This progression reflects the continued contributions and activity of the gang's members throughout July.
 
-On **July 30**, **Xythran contributed 11.4 million BTC** to the gang funds, providing a major boost to NSG's financial resources.
+On **July 6**, [K4LM3D](members/k4lm3d) also **contributed 4 million BTC** to the gang funds.
 
-On **July 6**, **K4LM3D also contributed 4 million BTC** to the gang funds.
+On **July 30**, [Xythran](members/xythran) **contributed 11.4 million BTC** to the gang funds, providing a major boost to NSG's financial resources.
 
 By the final day of the month, NSG had accumulated:
 
-**23,941,428 BTC in gang funds**
-**98,797 resources**
+- **23,941,428 BTC in gang funds**
+- **98,797 resources**
 
 ---
 
@@ -89,7 +85,7 @@ As the gang grew, its leaders also began establishing clearer expectations for m
 
 ### July 7 — Inactivity Policy
 
-Following **CODE_Exypnus' 12 days of inactivity**, leaders **K4LM3D and Xythran** decided that NSG needed a policy regarding prolonged inactivity.
+Following **CODE_Exypnus' 12 days of inactivity**, leaders [K4LM3D](members/k4lm3d) and [Xythran](members/xythran) decided that NSG needed a policy regarding prolonged inactivity.
 
 This was an important step in rebuilding the gang as an organized community rather than simply maintaining a list of members.
 
