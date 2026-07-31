@@ -56,8 +56,8 @@ Overall standings:
 
 Since [K4LM3D](members/k4lm3d) and [Xythran](members/xythran) are currently serving as the gang's acting leaders, we are excluded from the contributor rewards. This means the following members are recognized as this week's **Top Contributors**:
 
-🥇 **Jmr11457**
-🥈 [Kizuna_Kun_ll](members/kizuna_kun_11)
+🥇 **Jmr11457**\
+🥈 [Kizuna_Kun_ll](members/kizuna_kun_11)\
 🥉 **CODE_Exypnus**
 
 > ***As a token of appreciation for their efforts, these three members will each receive a gift from the leadership. Thank you for helping NSG continue to grow!***
