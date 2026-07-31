@@ -1,7 +1,7 @@
 ---
 title: Skae_19
 date: 2026-07-28T05:32:00+08:00
-draft: draft
+draft: true
 tags: ["CyberCode Online"]
 description: "Get to know Skae_19 of Nousagi Gang"
 weight: 8
