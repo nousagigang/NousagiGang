@@ -77,41 +77,39 @@ By the final day of the month, NSG had accumulated:
 - **23,941,428 BTC in gang funds**
 - **98,797 resources**
 
----
-
-## Building Structure and Accountability
+### Building Structure and Accountability
 
 As the gang grew, its leaders also began establishing clearer expectations for member activity.
 
-### July 7 — Inactivity Policy
-
+{{< timeline >}}
+  {{< timelineItem icon="bell" header="Inactivity Policy" badge="Gang News" subheader="July 7" >}}
 Following **CODE_Exypnus' 12 days of inactivity**, leaders [K4LM3D](members/k4lm3d) and [Xythran](members/xythran) decided that NSG needed a policy regarding prolonged inactivity.
 
 This was an important step in rebuilding the gang as an organized community rather than simply maintaining a list of members.
+  {{< /timelineItem >}}
 
-### July 23 — Inactivity Announcements
+  {{< timelineItem icon="bell" header="Inactivity Announcements" badge="Gang News" subheader="July 23" >}}
+[K4LM3D](members/k4lm3d) formally announced the inactivity status of several members:
 
-K4LM3D formally announced the inactivity status of several members:
+* [BLACK_ACE](members/black_ace) — **14 days inactive**
+* **CODE_Exypnus** — **29 days inactive**
+* [Homongji](members/jude) — **15 days inactive**
 
-* **BLACK_ACE — 14 days inactive**
-* **CODE_Exypnus — 29 days inactive**
-* **Homongji — 15 days inactive**
-
-However, **Homongji was excused from the inactivity policy due to health issues**. His inactivity was therefore treated differently from members who were inactive without prior circumstances known to the leadership.
+However, [Homongji](members/jude) was **excused from the inactivity policy due to health issues**. His inactivity was therefore treated differently from members who were inactive without prior circumstances known to the leadership.
 
 The announcement reinforced NSG's new approach toward activity and accountability while also recognizing that members may have legitimate personal circumstances that affect their ability to play.
+  {{< /timelineItem >}}
 
-### July 24 — Leadership Action
+  {{< timelineItem icon="bell" header="Leadership Action" badge="Gang News" subheader="July 24" >}}
+On July 24, [K4LM3D](members/k4lm3d) **removed *CODE_Exypnus* from the gang** due to prolonged inactivity and issued a warning to [BLACK_ACE](members/black_ace).
 
-On July 24, **K4LM3D removed CODE_Exypnus from the gang** due to prolonged inactivity and issued a warning to **BLACK_ACE**.
-
-**Homongji was not subjected to the same action**, as his inactivity had already been excused because of his health situation.
+[Homongji](members/jude) **was not subjected to the same action**, as his inactivity had already been excused because of his health situation.
+  {{< /timelineItem >}}
+{{< /timeline >}}
 
 These actions demonstrated that the newly established inactivity policy was being put into practice while still allowing room for legitimate exceptions.
 
----
-
-## Reconnecting the Old NSG Community
+### Reconnecting the Old NSG Community
 
 One of July's most meaningful developments happened outside the game itself.
 
