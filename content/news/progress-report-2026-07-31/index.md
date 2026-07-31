@@ -39,19 +39,19 @@ The gang also welcomed several new and returning players throughout the month, w
 July brought steady membership growth through both new recruits and returning players.
 
 {{< timeline >}}
-  {{< timelineItem icon="heart" header="July 1" badge="New member" subheader="Noszcire joined NSG" >}}
+  {{< timelineItem icon="heart" header="July 1" badge="New member" subheader="Noszcire joined NSG" md=true >}}
 **Noszcire** was recruited by [K4LM3D](members/k4lm3d). He is a returning *CyberCode Online* player.
   {{< /timelineItem >}}
 
-  {{< timelineItem icon="heart" header="July 20" badge="New member" subheader="Army_Ant joined" >}}
+  {{< timelineItem icon="heart" header="July 20" badge="New member" subheader="Army_Ant joined" md=true >}}
 **Army_Ant** was recruited by [K4LM3D](members/k4lm3d) and [Xythran](members/xythran), further expanding the gang's active membership.
   {{< /timelineItem >}}
 
-  {{< timelineItem icon="heart" header="July 29" badge="New member" subheader="Jeid joined" >}}
+  {{< timelineItem icon="heart" header="July 29" badge="New member" subheader="Jeid joined" md=true >}}
 **Jeid** was recruited by [K4LM3D](members/k4lm3d)
   {{< /timelineItem >}}
 
-  {{< timelineItem icon="heart" header="July 31" badge="New member" subheader="Hajiroboshi joined" >}}
+  {{< timelineItem icon="heart" header="July 31" badge="New member" subheader="Hajiroboshi joined" md=true >}}
 **Hajiroboshi** was recruited by [K4LM3D](members/k4lm3). He explained that he was not new to the game, but rather an **on-and-off player**, bringing another experienced player into the rebuilt gang.
   {{< /timelineItem >}}
 {{< /timeline >}}
@@ -82,13 +82,13 @@ By the final day of the month, NSG had accumulated:
 As the gang grew, its leaders also began establishing clearer expectations for member activity.
 
 {{< timeline >}}
-  {{< timelineItem icon="bell" header="Inactivity Policy" badge="Gang News" subheader="July 7" >}}
+  {{< timelineItem icon="bell" header="Inactivity Policy" badge="Gang News" subheader="July 7" md=true >}}
 Following **CODE_Exypnus' 12 days of inactivity**, leaders [K4LM3D](members/k4lm3d) and [Xythran](members/xythran) decided that NSG needed a policy regarding prolonged inactivity.
 
 This was an important step in rebuilding the gang as an organized community rather than simply maintaining a list of members.
   {{< /timelineItem >}}
 
-  {{< timelineItem icon="bell" header="Inactivity Announcements" badge="Gang News" subheader="July 23" >}}
+  {{< timelineItem icon="bell" header="Inactivity Announcements" badge="Gang News" subheader="July 23" md=true >}}
 [K4LM3D](members/k4lm3d) formally announced the inactivity status of several members:
 
 * [BLACK_ACE](members/black_ace) — **14 days inactive**
@@ -100,7 +100,7 @@ However, [Homongji](members/jude) was **excused from the inactivity policy due t
 The announcement reinforced NSG's new approach toward activity and accountability while also recognizing that members may have legitimate personal circumstances that affect their ability to play.
   {{< /timelineItem >}}
 
-  {{< timelineItem icon="bell" header="Leadership Action" badge="Gang News" subheader="July 24" >}}
+  {{< timelineItem icon="bell" header="Leadership Action" badge="Gang News" subheader="July 24" md=true >}}
 On July 24, [K4LM3D](members/k4lm3d) **removed *CODE_Exypnus* from the gang** due to prolonged inactivity and issued a warning to [BLACK_ACE](members/black_ace).
 
 [Homongji](members/jude) **was not subjected to the same action**, as his inactivity had already been excused because of his health situation.
