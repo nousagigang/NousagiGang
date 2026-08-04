@@ -2,6 +2,34 @@
 
 All notable changes to this repository will be documented in this file.
 
+## [1.1.0](https://github.com/nousagigang/nousagigang/releases/tag/v1.1.0) - 2026-08-05
+
+### Added
+- **`member-list` shortcode**
+- **`member-avatar` shortcode**
+- **Homepage member listing**
+- New **<u>drafts</u>** of **member profiles** for:
+    - `King_Of_Kings`
+    - `Noszcire`
+    - `Skae_19`
+- **Official Recruitment** news article
+- **Progress Report for 2026-07-31** news article
+
+### Changed
+- Updated **roster** and **leadership** pages
+- Updated member `tags`
+- Improved member list styling and layout
+- Migrated member pages to use the new avatar shortcode
+
+### Fixed
+- Fixed `accordionItems` in the **Progress Report** article
+- Corrected image assets for the **Official Recruitment** article
+
+### Documentation
+- Updated `README.md` and `CHANGELOG.md`
+
+<p align="center"> ───  ◆  ◆  ◆  ─── </p>
+
 ## [v1.0.0](https://github.com/nousagigang/nousagigang/releases/tag/v1.0.0) - 2026-07-01
 
 This is the first major release of the website following the initial [`v0.1.0`](https://github.com/nousagigang/nousagigang/releases/tag/v0.1.0) release. It introduces a complete migration to the new infrastructure, a redesigned content system, improved deployment pipeline, author profiles, analytics, and numerous content and usability improvements.
